@@ -1,3 +1,7 @@
+---
+title: "Essential tools"
+---
+
 I'm trying to reduce the number of tools I use to keep organized. Here's what I currently use:
 
 #### Personal use:
