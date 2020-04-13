@@ -11,7 +11,6 @@ I'm trying to reduce the number of tools I use to keep organized. Here's what I 
 - [google drive](https://drive.google.com/)
 - [github](https://github.com/)
 - [lastpass](https://lastpass.com/)
-- [raindrop.io](https://raindrop.io/) or [bookmark ninja](https://bookmarkninja.com/)
 
 #### [Research Triangle Analysts](https://www.rtpanalysts.org/):
 - [meetup](https://www.meetup.com/Research-Triangle-Analysts/)
